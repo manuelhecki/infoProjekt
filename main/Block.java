@@ -37,9 +37,81 @@ public class Block  extends Tile
             setImage("floor left up.png");       
         }
 
+        else if(ID == 300){                     
+            setImage("confused.png");       
+        }
+
+        else if(ID == 301){                     
+            setImage("301.png");       
+        }
+
+        else if(ID == 302){                     
+            setImage("302.png");       
+        }
+
+        else if(ID == 303){                     
+            setImage("303.png");       
+        }
+
+        else if(ID == 304){                     
+            setImage("304.png");       
+        }
+
+        else if(ID == 305){                     
+            setImage("305.png");       
+        }
+
+        else if(ID == 306){                     
+            setImage("306.png");       
+        }
+
+        else if(ID == 307){                     
+            setImage("307.png");       
+        }
+
+        else if(ID == 308){                     
+            setImage("308.png");       
+        }
+
+        else if(ID == 309){                     
+            setImage("309.png");       
+        }
+
+        else if(ID == 310){                     
+            setImage("310.png");       
+        }
+
+        else if(ID == 311){                     
+            setImage("311.png");       
+        }
+
+        else if(ID == 312){                     
+            setImage("312.png");       
+        }
+
+        else if(ID == 313){                     
+            setImage("313.png");       
+        }
+
+        else if(ID == 314){                     
+            setImage("314.png");       
+        }
+
+        else if(ID == 315){                     
+            setImage("315.png");       
+        }
+        
+        else if (ID== 316){
+            setImage("316.png");
+        }
+
+        else if(ID == 320){                     
+            setImage("signal.png");       
+        }
+
         else{
 
-            setImage("flyingfloor.png");       // undefinerter Bloch (gut erkennbar)
+            setImage("undefined.png");       // undefinerter Bloch (gut erkennbar)
         }
 
     }
