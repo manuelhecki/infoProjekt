@@ -104,9 +104,41 @@ public class Block  extends Tile
         else if (ID== 316){
             setImage("316.png");
         }
+        
+        else if (ID== 317){
+            setImage("306_emerald.png");
+        }
+        
+        else if (ID== 318){
+            setImage("306_stone.png");
+        }
+        
+        else if (ID== 319){
+            setImage("314_2.png");
+        }
 
         else if(ID == 320){                     
             setImage("signal.png");       
+        }
+
+        else if(ID == 321){                     
+            setImage("302_2.png");       
+        }
+
+        else if(ID == 322){                     
+            setImage("302_3_lefttrans.png");       
+        }
+
+        else if(ID == 323){                     
+            setImage("302_4_righttrans.png");       
+        }
+
+        else if(ID == 324){                     
+            setImage("314_3_lefttrans.png");       
+        }
+
+        else if(ID == 325){                     
+            setImage("314_4_righttrans.png");       
         }
 
         else{
